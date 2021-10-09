@@ -36,6 +36,6 @@ Help work on the bot and provide updates to over 100,000 users
  - Basic knowledge of [Express](https://expressjs.com)
  
 
-# Want to work for us? Learn more at the [Portal Development](https://www.portaldevelopment.net) hub!
+# Want to work for us? Learn more at the [Portal Development](https://www.portaldevelopment.net/hiring) hub!
 
 _Notice: All Roblox Utilities code and resportories are private to prevent copyright issues. If you wish to contribute to our code, let us know on the Portal Development hub._
